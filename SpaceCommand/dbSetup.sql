@@ -1,4 +1,4 @@
--- Active: 1666719198340@@SG-mild-zebra-6116-6849-mysql-master.servers.mongodirector.com@3306@CodeWorks
+-- Active: 1689267196348@@174.126.222.126@3306@SpaceCommand
 
 CREATE TABLE
     IF NOT EXISTS accounts(
